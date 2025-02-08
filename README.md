@@ -49,13 +49,16 @@ pip install -r requirements.txt
 
 ## 📸 Screenshots
 1. **Dataset Preview**: A screenshot of the dataset structure.
+   
 ![image](https://github.com/user-attachments/assets/17c6f029-80f3-4d13-8bb8-eef1206bdf7d)
 
-2. **Confusion Matrix**: Show the model’s classification performance.
+3. **Confusion Matrix**: Show the model’s classification performance.
 ![image](https://github.com/user-attachments/assets/8653b52f-e997-409b-932b-7ff848ec5ed5)
 
-3. **Word Cloud**: Highlight common words in real vs. fake news.
+4. **Word Cloud**: Highlight common words in real vs. fake news.
 ![image](https://github.com/user-attachments/assets/2083f5b5-f806-452c-90ea-f868f2003392)
+![image](https://github.com/user-attachments/assets/e5339e69-bd13-4773-a1b2-4fc45e1dcad0)
+
 
 
 
