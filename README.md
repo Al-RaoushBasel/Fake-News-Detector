@@ -36,7 +36,7 @@ While working on this project, I raised important questions:
 ## 📌 How to Run the Project
 ### 🔹 Clone the Repository
 ```bash
-git clone https://github.comAl-RaoushBasel/Fake-News-Detection.git
+git clone https://github.com/Al-RaoushBasel/Fake-News-Detection.git
 cd Fake-News-Detection
 ```
 ### 🔹 Install Dependencies
